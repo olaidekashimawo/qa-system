@@ -1,0 +1,10 @@
+cat > requirements.txt << EOF
+streamlit
+langchain
+langchain-openai
+openai
+tiktoken
+pypdf
+faiss-cpu
+pandas
+EOF
