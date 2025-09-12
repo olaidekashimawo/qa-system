@@ -1,8 +1,5 @@
 streamlit
 langchain
-langchain-openai
-openai
-tiktoken
-pypdf
 faiss-cpu
-pandas
+openai
+PyPDF2
